@@ -2,6 +2,7 @@ sgdbot.py
 =========
 
 Stop loss/Start gain dialog interactive bot for goxtool Mt.Gox trading bot framework
+
 Features:
 
 - Ability to set or change stop loss/start gain orders during runtime. No need to edit files or reload strategy (very useful)! (press s to open stop loss dialog or press g to open start gain dialog)
